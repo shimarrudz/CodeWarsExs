@@ -1,0 +1,19 @@
+{
+  "name": "codewarsexs",
+  "version": "1.0.0",
+  "description": "⚔️ This repository is dedicated for my everyday code wars exercises.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shimarrudz/CodeWarsExs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shimarrudz/CodeWarsExs/issues"
+  },
+  "homepage": "https://github.com/shimarrudz/CodeWarsExs#readme"
+}
